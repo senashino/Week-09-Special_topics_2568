@@ -22,6 +22,6 @@
 8. พิมพ์คำสั่ง dir
 9. พิมพ์คำสั่ง cd HelloWorld
 10. พิมพ์คำสั่ง idf.py build
-11. พิมพ์คำสั่ง idf.py เพื่อดูขนาดไซส์
+11. พิมพ์คำสั่ง idf.py size เพื่อดูขนาดไซส์
 12. พิมพ์คำสั่ง idf.py flash
 13. พิมพ์คำสั่ง idf.py monitor (กำหนดพอร์ตเองใช้คำสั่ง idf.py -p PORT flash)
