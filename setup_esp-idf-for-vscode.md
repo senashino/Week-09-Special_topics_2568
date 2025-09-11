@@ -1,4 +1,4 @@
-# การใช้งาน esp-idf ใน vscode
+cd# การใช้งาน esp-idf ใน vscode
 1. เปิด vs code
 2. คลิกแท็บ Extension
 3. ค้นหา IDF
